@@ -40,11 +40,17 @@ These documents provided the financial data necessary for conducting a comprehen
 3. Data formatting
 
 ### Exploratory Data Analysis (EDA)
-EDA involved exploring
-1. How has Shoprite Holdings Limited's financial performance evolved from 2019 to 2023, and what key insights can be derived from their revenue growth, net profit margin, earnings per share (EPS), debt to equity ratio, and asset turnover ratio?
-2. What trends can be observed in Shoprite Holdings Limited's revenue growth over the past five years?
-3. How has the net profit margin of Shoprite Holdings Limited changed over the past five years?
-4. How has the EPS of Shoprite Holdings Limited fluctuated over the past five years?
-5. How has Shoprite Holdings Limited managed its debt relative to equity over the past five years?
-6.  How effectively has Shoprite Holdings Limited used its assets to generate sales over the past five years?
-   
+EDA involved exploring the financial metric ratios to answer key questions, such as:
+
+- How has Shoprite Holdings Limited's financial performance evolved from 2019 to 2023, and what key insights can be derived from their revenue growth, net profit margin, earnings per share (EPS), debt to equity ratio, and asset turnover ratio?
+- What trends can be observed in Shoprite Holdings Limited's revenue growth over the past five years?
+- How has the net profit margin of Shoprite Holdings Limited changed over the past five years?
+- How has the EPS of Shoprite Holdings Limited fluctuated over the past five years?
+- How has Shoprite Holdings Limited managed its debt relative to equity over the past five years?
+- How effectively has Shoprite Holdings Limited used its assets to generate sales over the past five years?
+
+### Comprehensive Anaysis on Shoprite Holding's Limited
+
+
+   ### Results/Findings
+  
