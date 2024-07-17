@@ -76,9 +76,14 @@ Shoprite Holdings Limited categorizes its operations into four main reportable s
 - Other Operating Segments: This includes all other operations not classified under the above segments, trading both in RSA and Non-RSA regions, such as franchise operations and the retail and wholesale of pharmaceutical products.
 
   
-
-
-
-
    ### Results/Findings
-  
+
+- Revenue Growth: Shoprite's revenue exhibited substantial growth, increasing from a 1.64% rise in 2019 to 17.07% in 2023. This consistent growth underscores the company's strong market expansion and effective penetration strategies.
+
+- Net Profit Margin: Despite fluctuations, Shoprite's net profit margin remained robust, consistently above 2%. It peaked at 3.06% in 2022 before slightly declining to 2.69% in 2023, reflecting efficient cost management and sustained profitability.
+
+- Earnings Per Share (EPS): Shoprite's EPS demonstrated resilience, showing an upward trend from 2019 to 2020, facing a dip in 2021, and recovering in 2022 and 2023. This recovery indicates improved profitability per share.
+
+- Debt to Equity Ratio: Shoprite maintained a debt to equity ratio above 2, indicating significant reliance on debt for growth. However, the company's assets consistently exceeded liabilities, suggesting effective debt management and strategic use of borrowed funds for expansion.
+
+- Asset Turnover Ratio: Shoprite's asset turnover ratio improved over the five-year period, peaking in 2021. This improvement highlights the company's increasing efficiency in using its assets to generate sales, demonstrating smart management and operational effectiveness.
