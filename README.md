@@ -89,6 +89,7 @@ Shoprite Holdings Limited categorizes its operations into four main reportable s
 - Asset Turnover Ratio: Shoprite's asset turnover ratio improved over the five-year period, peaking in 2021. This improvement highlights the company's increasing efficiency in using its assets to generate sales, demonstrating smart management and operational effectiveness.
 
 
+
 ![Revenue Performance Image](https://github.com/user-attachments/assets/35a9029d-6df3-40ad-bc5f-0a083ce4a772)
 
 
