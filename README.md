@@ -2,7 +2,7 @@
 
 ## Project Overview: Comprehensive Analysis of Shoprite Holdings Limited
 
-The aim of this project is to perform a comprehensive financial analysis of Shoprite Holdings Limited, one of South Africa's largest retailers. By examining key financial metrics and trends from 2019 to 2023, this project seeks to showcase my data analytics and general analytics skills using Excel, PowerBI, and Tableau.
+The aim of this project is to perform a comprehensive financial analysis of Shoprite Holdings Limited, one of South Africa's largest retailers. By examining key financial metrics and trends from 2019 to 2023, this project seeks to showcase my data analytics and general analytics skills using Excel.
 Understanding the financial health of a major company like Shoprite is crucial for making informed investment decisions. This analysis provides insights into the company's revenue growth, profitability, debt management, and asset utilization, helping potential investors and stakeholders gauge its performance and future prospects.
 Shoprite's significant expansion and market presence across Africa, combined with its customer-centric approach and commitment to low prices, make it a compelling subject for analysis. The company's financial journey over the past five years reveals intriguing patterns and growth trajectories that highlight its operational strategies and market impact.
 
@@ -50,7 +50,7 @@ EDA involved exploring the financial metric ratios to answer key questions, such
 - How effectively has Shoprite Holdings Limited used its assets to generate sales over the past five years?
 
 ### Comprehensive Anaysis on Shoprite Holding's Limited
-Shoprite Holdings is a leading retailer in South Africa, operating across nine African countries. The company's journey began in 1979 when PEP Stores acquired a small grocery chain called Shoprite. Since then, Shoprite has experienced significant growth and diversification, expanding its footprint both geographically and in terms of services offered.Shoprite Holdings Limited, listed on the Johannesburg Stock Exchange (JSE) under the "food retailers & wholesalers" sector, primarily generates income from dividends and interest. It has secondary listings on the Namibian and Zambian Stock Exchanges. 
+Shoprite Holdings is a leading retailer in South Africa, operating across nine African countries. The company's journey began in 1979 when PEP Stores acquired a small grocery chain called Shoprite. Since then, Shoprite has experienced significant growth and diversification, expanding its footprint both geographically and in terms of services offered.
 
 #### Key Highlights:
 - Strategic Acquisitions: Shoprite's growth has been fueled by strategic acquisitions, including Checkers, OK Bazaars Group, and Metcash Trading Africa, which broadened its retail offerings and market presence.
@@ -82,11 +82,11 @@ Shoprite Holdings Limited categorizes its operations into four main reportable s
 
 - Net Profit Margin: Despite fluctuations, Shoprite's net profit margin remained robust, consistently above 2%. It peaked at 3.06% in 2022 before slightly declining to 2.69% in 2023, reflecting efficient cost management and sustained profitability.
 
-- Earnings Per Share (EPS): Shoprite's EPS demonstrated resilience, showing an upward trend from 2019 to 2020, facing a dip in 2021, and recovering in 2022 and 2023. This recovery indicates improved profitability per share.
+- Earnings Per Share (EPS): Shoprite's EPS demonstrated resilience, Earnings Per Share (EPS) for the company started at 6275.9 in 2019, slightly declined to 6104.3 in 2020, and then experienced a significant drop to 877.5 in 2021. However, it recovered to 1048.3 in 2022 and continued to improve, reaching 1084.3 in 2023. This trend indicates a strong performance initially, a setback in 2021, and a subsequent recovery, reflecting improving profitability per share in the later years.
 
-- Debt to Equity Ratio: Shoprite maintained a debt to equity ratio above 2, indicating significant reliance on debt for growth. However, the company's assets consistently exceeded liabilities, suggesting effective debt management and strategic use of borrowed funds for expansion.
+- Debt to Equity Ratio: The debt to equity ratio for Shoprite Holdings has remained above 2 from 2019 to 2023, starting at 2.65 in 2019 and ending at 2.90 in 2023. This indicates that Shoprite has consistently used borrowed money to finance its growth. Despite the high ratio, Shoprite's total assets have consistently exceeded its liabilities, demonstrating effective debt management and strategic use of debt for expansion. This trend reflects Shoprite's ability to leverage debt to drive growth while maintaining a strong financial position.
 
-- Asset Turnover Ratio: Shoprite's asset turnover ratio improved over the five-year period, peaking in 2021. This improvement highlights the company's increasing efficiency in using its assets to generate sales, demonstrating smart management and operational effectiveness.
+- Asset Turnover Ratio: Shoprite's asset turnover ratio has shown consistent improvement from 2019 to 2023, indicating increased efficiency in using its assets to generate sales. Starting at 1.82 in 2019, the ratio grew to 1.91 in 2020, peaked at 2.22 in 2021, slightly decreased to 2.05 in 2022, and rose again to 2.14 in 2023. Despite a debt to equity ratio above 2 throughout these years, Shoprite's ability to effectively utilize its assets to drive sales highlights its operational efficiency and prudent management.
 
 
 
