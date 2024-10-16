@@ -1,4 +1,4 @@
-# Woolworths Holdings Financial Analysis
+# Shoprite Holdings Financial Analysis
 
 ## Project Overview: Comprehensive Analysis of Shoprite Holdings Limited
 
